@@ -4,13 +4,34 @@ A curated list of resources dedicated to document layout analysis
 
 * *CODE means official code and CODE means not official code
 
-*Conf.* | *Date* | *Title* | *Highlight* | *code* 
+*Conf.* | *Date* | *Title* | *Highlight* | *code*/cite 
 :---: | :---: |:--- | :---: | :---: 
 ICDAR2021 | 2021/5/13 |[VSR: A Unified Framework for Document Layout Analysis combining Vision, Semantics and Relations](https://arxiv.org/pdf/2105.06220.pdf) | V,S,R | [*CODE](https://github.com/hikopensource/DAVAR-Lab-OCR/tree/main/demo/text_layout/VSR)<br/>![](https://img.shields.io/github/stars/hikopensource/DAVAR-Lab-OCR.svg?style=social) 
 KDD 2020 | 2020/6/16 |[LayoutLM: Pre-training of Text and Layout for Document Image Understanding](https://arxiv.org/pdf/1912.13318.pdf) | multimodal/pretrain | [*CODE](https://github.com/microsoft/unilm/tree/master/layoutlm)<br/>![](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social) 
 ACL2021 | 2022/1/10 |[LayoutLMv2: Multi-modal Pre-training for Visually-Rich Document Understanding](https://arxiv.org/pdf/2012.14740.pdf) | multimodal/pretrain | [*CODE](https://github.com/microsoft/unilm/tree/master/layoutlmv2)<br/>![](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social) 
 
+| *Conf.* | *Date*    | *Title*                                                      | *Highlight* | code/cite |
+| ------- | --------- | ------------------------------------------------------------ | ----------- | --------- |
+| KDD2018 | 2018/5/24 | [Corpus Conversion Service: A Machine Learning Platform to Ingest Documents at Scale](https://arxiv.org/pdf/1806.02284.pdf) | pipeline    | none      |
+|         |           |                                                              |             |           |
+|         |           |                                                              |             |           |
+
+| *Conf.*   | *Date*    | *Title*                                                      | *Highlight* | code/cite |
+| --------- | --------- | ------------------------------------------------------------ | ----------- | --------- |
+| ICDAR2017 | 2017/11/9 | [DeepDeSRT: Deep Learning for Detection and Structure Recognition of Tables in Document Images](https://www.dfki.de/fileadmin/user_upload/import/9672_PID4966073.pdf) | table det   | 193       |
+|           |           |                                                              |             |           |
+|           |           |                                                              |             |           |
+
+| *Conf.*                   | *Date*    | *Title*                                                      | *Highlight* | code/cite |
+| ------------------------- | --------- | ------------------------------------------------------------ | ----------- | --------- |
+| ITC-irst Technical Report | 1998      | [Geometric layout analysis techniques for document image understanding: a review](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.37.353&rep=rep1&type=pdf) | traditional | 216       |
+| IWDAS                     | 2002/8/19 | [Two geometric algorithms for layout analysis](https://link.springer.com/content/pdf/10.1007%2F3-540-45869-7_23.pdf) | traditional | 231       |
+| PSDIUT                    | 2003      | [High performance document layout analysis](https://www.dfki.de/fileadmin/user_upload/import/2000_HighPerfDocLayoutAna.pdf) | traditional | 139       |
+
+
+
 ## 2. Datasets
+
 ### 2.1 Introduction
 
 |Dataset|Description|dataset link|
