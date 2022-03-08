@@ -7,6 +7,8 @@ A curated list of resources dedicated to document layout analysis
 *Conf.* | *Date* | *Title* | *Highlight* | *code* 
 :---: | :---: |:--- | :---: | :---: 
 ICDAR2021 | 2021/5/13 |[VSR: A Unified Framework for Document Layout Analysis combining Vision, Semantics and Relations](https://arxiv.org/pdf/2105.06220.pdf) | V,S,R | [*CODE](https://github.com/hikopensource/DAVAR-Lab-OCR/tree/main/demo/text_layout/VSR)<br/>![](https://img.shields.io/github/stars/hikopensource/DAVAR-Lab-OCR.svg?style=social) 
+KDD 2020 | 2020/6/16 |[LayoutLM: Pre-training of Text and Layout for Document Image Understanding](https://arxiv.org/pdf/1912.13318.pdf) | multimodal/pretrain | [*CODE](https://github.com/microsoft/unilm/tree/master/layoutlm)<br/>![](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social) 
+ACL2021 | 2022/1/10 |[LayoutLMv2: Multi-modal Pre-training for Visually-Rich Document Understanding](https://arxiv.org/pdf/2012.14740.pdf) | multimodal/pretrain | [*CODE](https://github.com/microsoft/unilm/tree/master/layoutlmv2)<br/>![](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social) 
 
 ## 2. Datasets
 ### 2.1 Introduction
@@ -37,7 +39,10 @@ TO DO
 ### 3.3 Related lecture
 
 * 2021
+
   * MSR: [Document AI: Benchmarks, Models and Applications (Presentation@ICDAR 2021)](https://www.microsoft.com/en-us/research/publication/document-ai-benchmarks-models-and-applications-presentationicdar-2021/)
+
+  
 
  
 
